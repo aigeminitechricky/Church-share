@@ -1,0 +1,6 @@
+{
+  "name": "教會小組分享抽籤器",
+  "description": "專為教會團契與小組分享設計的互動抽籤工具，支援小組肢體名單置頂、隨機選出分享人物與抽取 3 個題目。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
